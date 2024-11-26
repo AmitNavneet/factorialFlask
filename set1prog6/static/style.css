@@ -1,0 +1,54 @@
+body
+{
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: blueviolet;
+
+}
+h1
+{
+    background-color: wheat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    
+}
+form
+{
+    padding: 30px;
+   
+}
+table{
+    background-color:burlywood;
+    text-align: center;
+    height: 30%;
+    width: 30%;
+    margin: auto;
+    border: 2px solid black;
+}
+input
+{
+    border: 2px solid blueviolet;
+}
+
+input[type=submit]
+{
+    height: 50px;
+}
+
+input[type=reset]
+{
+    height: 50px;
+    width: 150px;
+}
+
+a{
+    font-size: 20px;
+    padding: 20px;
+    font-family: cursive;
+    
+}
